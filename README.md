@@ -24,4 +24,4 @@ I'm a passionate Web Developer who loves crafting beautiful and responsive web a
 ## 📫 Let's Connect
 - [Portfolio](https://shanikacode.in/)
 - [LinkedIn](https://www.linkedin.com/in/shanikajayawardane/)
-- Email: shanikauwu@gmail.com
+- [Email] shanikauwu@gmail.com
