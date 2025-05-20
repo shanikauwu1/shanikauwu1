@@ -14,7 +14,7 @@ I'm a passionate Web Developer who loves crafting beautiful and responsive web a
 - 🌐 [My Portfolio](https://shanikacode.in/) – A headless WordPress-powered portfolio showcasing my skills and projects.
 - 🎬 [Movix](https://github.com/shanikauwu1/movix) – React movie app using TMDB API
 - 🎮 [Smile Shuffle](https://github.com/shanikauwu1/smile-shuffle) – OOP-based JS game
-- 🛍️ [Rayeli Fashions](https://github.com/shanikauwu1/rayeli-fashions) – React e-commerce store
+- 🛍️ [Rayeli Fashions](https://github.com/shanikauwu1/E-commerce-fashion) – React e-commerce store
 
 ## 📚 Currently Learning
 - TypeScript
