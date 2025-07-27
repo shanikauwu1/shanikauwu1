@@ -32,7 +32,7 @@ I'm a passionate Web Developer who loves crafting beautiful and responsive web a
 
 ![Shanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanikauwu1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanikauwu1&layout=compact&theme=radical)
+
 
 
 
