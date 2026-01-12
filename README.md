@@ -3,7 +3,7 @@
 
 I'm a passionate Web Developer who loves crafting beautiful and responsive web applications. Currently focused on React, Tailwind CSS, and headless CMS projects.
 
- You can find my portfolio here: https://shanikacode.in
+ You can find my portfolio here: https://shanikatech.info
 
 ## 🔧 Tech Stack
 
