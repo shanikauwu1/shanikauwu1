@@ -28,10 +28,6 @@ I'm a passionate Web Developer who loves crafting beautiful and responsive web a
 - [Email]shanikauwu@gmail.com
 
 
-## 📈 GitHub Stats
-
-![Shanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanikauwu1&show_icons=true&theme=radical)
-
 
 
 
